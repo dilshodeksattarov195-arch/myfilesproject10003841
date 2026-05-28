@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceparse",
+        "uuid": 3975435,
+        "checksum": "3cs9bl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
